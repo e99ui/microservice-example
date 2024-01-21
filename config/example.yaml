@@ -1,0 +1,6 @@
+env: # dev, prod, local
+storage_path: # path to sqlite file
+http:
+  port: # default 8000
+  write_timeout: # default 5s
+  read_timeout: # default 5s
